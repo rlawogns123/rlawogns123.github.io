@@ -12,8 +12,7 @@ class Container extends Component {
         return (
             <div className={styles.Container}>
                 <Subject subject={subject}></Subject>
-                {/* <Wrapper contents={contents}></Wrapper> */}
-                {wrapper}
+                <span>{wrapper}</span>
             </div>
         );
     }

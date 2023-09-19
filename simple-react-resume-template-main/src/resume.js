@@ -8,7 +8,7 @@ export const header = {
 
 export const intro = {
     subject: 'Introduce',
-    profile: 'profile.png',
+    profile: 'profile.PNG',
     intro: `
     안녕하세요. 웹 개발자 김재훈입니다.
 
@@ -99,7 +99,7 @@ export const projects = {
             ],
             keywords: ['Vite', 'React', 'TypeScript', 'React Query', 'Axios', 'styled-components', 'Netlify'],
             folder: 'simple-react-resume-template',
-            images: ['MovieAppGIf.gif'],
+            images: ['MovieApp-1.gif', 'MovieApp-2.gif', 'MovieApp-3.gif'],
             pdfs: [],
         },
         {
