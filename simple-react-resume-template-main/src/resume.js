@@ -8,7 +8,7 @@ export const header = {
 
 export const intro = {
     subject: 'Introduce',
-    profile: 'profile.PNG',
+    profile: 'profile.png',
     intro: `
     안녕하세요. 신입 프론트엔드 개발자 김재훈입니다.
     
