@@ -105,7 +105,7 @@ export const projects = {
                 { main: 'window 객체를 이용하여 스크롤 업 버튼 구현', sub: [] },
                 { main: 'Express, MongoDB를 사용해 회원가입 / 로그인, 댓글 등록 및 삭제 기능 구현', sub: [] },
                 { main: 'styled-components를 사용해 스타일링', sub: [] },
-                { main: 'cloudtype 사용해 웹 사이트 배포', sub: [] },
+                { main: 'cloudtype을 사용해 웹 사이트 배포', sub: [] },
             ],
             keywords: [
                 'Vite',
@@ -143,7 +143,7 @@ export const projects = {
                 { main: 'Express로 웹 서버를 구축하고 MongoDB에 데이터를 저장', sub: [] },
                 { main: '네이버 클라우드를 사용해 이미지 업로드', sub: [] },
                 { main: 'React-Bootstrap과 styled-components를 사용해 스타일링', sub: [] },
-                { main: 'cloudtype 사용해 웹 사이트 배포', sub: [] },
+                { main: 'cloudtype을 사용해 웹 사이트 배포', sub: [] },
             ],
             keywords: ['React', 'Axios', 'Firebase', 'Express', 'MongoDB', 'Redux Toolkit', 'styled-components'],
             folder: 'simple-react-resume-template',
